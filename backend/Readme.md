@@ -62,8 +62,8 @@ mvn clean package
 Run the generated JAR file by using the following command:
 
 ```bash
-
-java -jar target\spring-backend-v1.jar
+cd target/
+java -jar <yout .jar file>
 ```
 
 The application will start and be accessible at:
